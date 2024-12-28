@@ -18,5 +18,7 @@ This is a basic ATM simulation program implemented in Java. It demonstrates fund
 2. Open the project in your favorite Java IDE (e.g., IntelliJ, Eclipse, etc.).
 3. Compile and run the `ATM.java` file.
 4. Follow the instructions displayed on the console.
-## Screenshot
+## Output Screenshot
 ![ATM Project Screenshot](atm_screenshot.png "ATM Project Example")
+![ATM Project Screenshot](atm_screenshot1.png "ATM Project Example")
+![ATM Project Screenshot](atm_screenshot2.png "ATM Project Example")
