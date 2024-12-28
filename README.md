@@ -20,5 +20,5 @@ This is a basic ATM simulation program implemented in Java. It demonstrates fund
 4. Follow the instructions displayed on the console.
 ## Output Screenshot
 ![ATM Project Screenshot](atm_screenshot.png "ATM Project Example")
-![ATM Project Screenshot](atm_screenshot1.png "ATM Project Example")
-![ATM Project Screenshot](atm_screenshot2.png "ATM Project Example")
+![ATM Project Screenshot](atm_screenshot_1.png "ATM Project Example")
+![ATM Project Screenshot](atm_screenshot_2.png "ATM Project Example")
